@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Olof-a/olof-train/issues"
   },
-  "homepage": "https://github.com/Olof-a/olof-train#readme"
+  "homepage": "https://github.com/Olof-a/olof-train#readme",
+  "devDependencies": {
+    "async": "^2.6.1"
+  }
 }
